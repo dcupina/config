@@ -1,0 +1,16 @@
+{
+	"name": "minimal color scheme",
+	"globals":
+	{
+		"background": "rgb(11, 11, 11)",
+		"foreground": "#EEEEEE",
+		"caret": "#FFFFFF"
+	},
+	"rules":
+	[
+		{
+			"scope": "comment",
+			"foreground": "#868686"
+		},
+	]
+}

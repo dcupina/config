@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/minimal.sublime-color-scheme",
+	"font_size": 11,
+	"theme": "Adaptive.sublime-theme",
+	"tab_size": 8,
+	"line_padding_top": 1,
+	"line_padding_bottom": 1,
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true
+}
