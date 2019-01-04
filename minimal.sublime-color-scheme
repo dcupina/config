@@ -3,7 +3,7 @@
 	"globals":
 	{
 		"background": "rgb(11, 11, 11)",
-		"foreground": "#EEEEEE",
+		"foreground": "#EAEAEA",
 		"caret": "#FFFFFF"
 	},
 	"rules":
@@ -12,5 +12,13 @@
 			"scope": "comment",
 			"foreground": "#868686"
 		},
+		{
+			"scope": "string",
+			"foreground": "#42dc08"
+		},
+		{
+			"scope": "constant",
+			"foreground": "#42dc08"
+		}
 	]
 }

@@ -1,0 +1,12 @@
+{
+	"shell_cmd": "build.bat",
+	"file_regex": "^((?:\\w\\:)?[^\\:\\n]+\\.[A-Za-z]+)\\((\\d+)\\)\\ ?: (?:fatal )?(?:error|warning)(?: \\w\\d+)?: ()([^\\n]+)$",
+
+	"variants":
+	[
+		{
+			"name": "Run",
+			"shell_cmd": "build.bat && \"$file_base_name\"",
+		}
+	],
+}
